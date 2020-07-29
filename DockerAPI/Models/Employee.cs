@@ -7,7 +7,7 @@ namespace DockerAPI.Models
 {
     public class Employee
     {
-        // This is comment
+        // This is comments
         public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
